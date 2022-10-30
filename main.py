@@ -1,4 +1,5 @@
 #poker plays
+# @author: Schkliba
 import random
 
 import numpy as np
